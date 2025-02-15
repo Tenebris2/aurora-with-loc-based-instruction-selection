@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Collect addresses
+
 mkdir -p $EVAL_DIR/traces
 # requires at least python 3.6
 cd $AURORA_GIT_DIR/tracing/scripts
