@@ -1,1 +1,0 @@
-STATS: traced 751/751 files in 164.41024780273438s with 20 cores for /home/tenebris/Documents/RootCauseAnalysisPruning/evaluation//inputs/input-4
